@@ -9,7 +9,7 @@ http://microbit.org
 ## What is a computer?
 There are 4 main components that make up any computer:
 
-![Computer components](/static/courses/csintro/algorithms/computer-components.png)
+![Computer components](/static/courses/csintro/algorithms/cpu.png)
 
 1. The Processor – this is usually a small chip inside the computer, and it’s how the computer processes and transforms information. Has anyone heard of the term “CPU”?  CPU stands for Central Processing Unit. You can think of the processor as the Brains of the computer - the faster the processor, the more quickly the computer can think.
 
